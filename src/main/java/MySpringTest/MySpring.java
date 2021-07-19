@@ -14,7 +14,7 @@ public class MySpring implements CommandLineRunner {
 
 
     public static void main(String[] args) {
-        MySpringApplication.ENABLE_LOG = false;
+//        MySpringApplication.ENABLE_LOG = false;
         MySpringApplication.run(MySpring.class);
     }
 
